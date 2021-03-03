@@ -1,4 +1,4 @@
-<img src="attachments/SSF.jpg" width=100 align="middle">
+<img src="attachments/SSF.jpg" width=100 align="centre">
 <br>
 <br>
 <br>
