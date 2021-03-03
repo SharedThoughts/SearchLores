@@ -1,9 +1,13 @@
-<img src="attachments/SSF.jpg" width=100 align="center">
+"A dedication"
+<img src="attachments/SSF.jpg" width=150 align="center">
 <br>
 <br>
 <br>
 
+Meta vs Micro
+Precise vs Broadstrokes
 
+Why vs? What cant they work in combination?
 
 
 ![](attachments/2021-03-02-22-24-14.png)
