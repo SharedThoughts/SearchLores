@@ -21,6 +21,10 @@ Curious to see what I consider "Shared Thoughts"?
 [[Here goes]]
 [[Nothing]]
 
+<br>
+<br>
+Ps: this is a [digital garden](https://nesslabs.com/digital-garden-set-up) not a blog or - or heavens sake - a "website".
+
 ![](attachments/2021-03-02-22-24-14.png)
 
 ![](attachments/151941726_10159394021590337_6449182029974625423_o.jpg)
