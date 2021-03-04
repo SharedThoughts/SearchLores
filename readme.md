@@ -1,3 +1,6 @@
+___
+title: Test
+---
 "A dedication"
 <br>
 <img src="attachments/SSF.jpg" width=150 align="center">
