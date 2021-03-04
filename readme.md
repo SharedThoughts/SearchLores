@@ -1,6 +1,3 @@
-___
-title: Test
----
 "A dedication"
 <br>
 <img src="attachments/SSF.jpg" width=150 align="center">
@@ -9,12 +6,12 @@ title: Test
 ### Meta vs Micro
 ### Precise vs Broadstrokes
 
-_Why vs? What cant they work in combination?_
+_Why vs? Why cant they work in combination?_
 Muscles also only work in tandem. For one to contract another has to flex..
 
 But you are not here for philosophical questions.
 
-Why are you here?
+Why _are_ you here?
 
 Curious to see what I consider "Shared Thoughts"?
 
