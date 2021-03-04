@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "readme.md",
+            "file": "Back to where it all started.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "Back to where it all started.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Back to where it all started.md",
+    "getting-started.md",
+    "Nothing.md",
+    "readme copy.md",
+    "herewego.md",
+    "inbox.md",
+    "Untitled.md",
     "readme.md",
     "todo.md",
-    "testnote 2.md",
-    "Testnote.md",
-    "readme copy.md",
-    "New!.md",
-    "inbox.md",
-    "Here goes.md",
-    "getting-started.md",
-    "Another test.md"
+    "testnote 2.md"
   ]
 }
